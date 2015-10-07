@@ -1,0 +1,21 @@
+{
+  "name": "SWEETS",
+  "version": "0.1.0",
+  "description": "WEB ALTERNATIVE",
+  "author": "Vadim <develop@web-alt.ru> (http://web-alt.ru/)",
+  "main": "index.php",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "devDependencies": {
+    "gulp": "^3.9.0",
+    "gulp-autoprefixer": "^2.1.0",
+    "gulp-concat": "^2.5.2",
+    "gulp-less": "^3.0.2",
+    "gulp-minify-css": "^1.2.1",
+    "gulp-rename": "^1.2.0",
+    "gulp-uglify": "^1.1.0"
+  },
+  "dependencies": {}
+}

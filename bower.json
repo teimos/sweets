@@ -1,0 +1,21 @@
+{
+  "name": "BANK",
+  "version": "0.1.0",
+  "description": "SWEETS",
+  "main": "index.php",
+  "authors": [
+    "WEB ALTERNATIVE"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ],
+  "dependencies": {
+    "jquery": "~2.1.3"
+  }
+}
